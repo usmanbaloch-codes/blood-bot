@@ -1,0 +1,58 @@
+{
+  "islamic": [
+    {
+      "q": "How many pillars does Islam have?",
+      "a": "5",
+      "options": ["3", "4", "5", "6"]
+    },
+    {
+      "q": "Which is the longest Surah in the Quran?",
+      "a": "Al-Baqarah",
+      "options": ["Al-Baqarah", "Al-Imran", "An-Nisa", "Al-Maidah"]
+    },
+    {
+      "q": "In which month was the Quran revealed?",
+      "a": "Ramadan",
+      "options": ["Shawwal", "Rajab", "Ramadan", "Dhul Hijjah"]
+    },
+    {
+      "q": "How many Surahs are in the Quran?",
+      "a": "114",
+      "options": ["99", "114", "120", "100"]
+    },
+    {
+      "q": "What is the first pillar of Islam?",
+      "a": "Shahada",
+      "options": ["Salah", "Zakat", "Shahada", "Sawm"]
+    }
+  ],
+  "general": [
+    {
+      "q": "What is the capital of France?",
+      "a": "Paris",
+      "options": ["London", "Berlin", "Paris", "Rome"]
+    },
+    {
+      "q": "How many continents are there?",
+      "a": "7",
+      "options": ["5", "6", "7", "8"]
+    },
+    {
+      "q": "What is the largest ocean?",
+      "a": "Pacific",
+      "options": ["Atlantic", "Indian", "Pacific", "Arctic"]
+    }
+  ],
+  "riddle": [
+    {
+      "q": "I speak without a mouth. What am I?",
+      "a": "An echo",
+      "options": ["A shadow", "An echo", "The wind", "A mirror"]
+    },
+    {
+      "q": "The more you take, the more you leave behind. What am I?",
+      "a": "Footsteps",
+      "options": ["Time", "Footsteps", "Memories", "Money"]
+    }
+  ]
+}
